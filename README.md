@@ -1,9 +1,8 @@
-# 🎯 Skill Swap Platform 
+# 🎯 Skill Swap Platform - AamMunde Team
 
 A modern web application where users can exchange skills and knowledge with each other.
 
 This peer-to-peer skill exchange platform was built and showcased at the BuilderZone booth during AWS Community Day Vadodara 2025, as part of the Amazon Q initiative.
-
 ## 🌟 Features
 
 ### ✅ Complete User System
@@ -79,8 +78,8 @@ This peer-to-peer skill exchange platform was built and showcased at the Builder
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/madhav-09/Peer-Skill-Exchange-Platform.git
-cd Peer-Skill-Exchange-Platform
+git clone https://github.com/madhav-09/SKILLSWAP.git
+cd SKILLSWAP
 ```
 
 ### 2. Database Setup
@@ -284,4 +283,4 @@ npm install
 - SQL injection prevention
 - CORS configuration
 - File upload restrictions
->>>>>>> 1c27088 (full commit)
+

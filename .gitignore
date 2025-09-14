@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+*/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env
+frontend/.env.production
+
+# Production builds
+build/
+dist/
+frontend/build/
+frontend/static/
+
+# Logs
+logs
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Uploads
+backend/uploads/profiles/*
+!backend/uploads/profiles/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# React build artifacts
+frontend/asset-manifest.json
+frontend/index.html
+
+# Coverage
+coverage/
