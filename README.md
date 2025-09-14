@@ -1,4 +1,4 @@
-# 🎯 Skill Swap Platform - AamMunde Team
+# 🎯 Skill Swap Platform 
 
 A modern web application where users can exchange skills and knowledge with each other.
 
